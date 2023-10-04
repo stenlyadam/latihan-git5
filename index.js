@@ -19,6 +19,7 @@ console.log("perisai luar biasa dari kerajaan romawi");
 
 console.log ("bubur bubur apa yang bisa besar? bubur zoom zoom")//by andreas topuh
 
+console.log("Ezra disini");
 
 console.log("halo dek");
 

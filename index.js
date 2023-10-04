@@ -1,6 +1,8 @@
 // Basic Git and Github
 
 console.log("Perubahan di hari senin");
+
+console.log ("william anime banget")
 <<<<<<< HEAD
 console.log("Poetri cantik hehe");
 =======

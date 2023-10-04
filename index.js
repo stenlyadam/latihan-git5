@@ -12,3 +12,5 @@ console.log("hallo ini andreas");
 console.log("putri kedua");
 console.log("Hani Jastin Giovanni Ladjamba");
 console.log("perisai luar biasa dari kerajaan romawi")
+
+console.log("HALO SEMUA INI DEAS");

@@ -21,3 +21,5 @@ console.log ("bubur bubur apa yang bisa besar? bubur zoom zoom")//by andreas top
 
 
 console.log("halo dek");
+
+console.log("SORRY SIR");

@@ -2,3 +2,4 @@
 
 console.log("Perubahan di hari senin");
 console.log("Juan Keren");
+console.log("Hello world");
